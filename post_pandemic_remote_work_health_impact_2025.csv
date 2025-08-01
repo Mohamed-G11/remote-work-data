@@ -2,22 +2,8 @@ Survey_Date,Age,Gender,Region,Industry,Job_Role,Work_Arrangement,Hours_per_Week,
 2025-06-01,27,Female,Asia,Professional Services,Data Analyst,Onsite,64,Stress Disorder,High,3,Shoulder Pain; Neck Pain,2,$40K-60K
 2025-06-01,37,Female,Asia,Professional Services,Data Analyst,Onsite,37,Stress Disorder,High,4,Back Pain,2,$80K-100K
 2025-06-01,32,Female,Africa,Education,Business Analyst,Onsite,36,ADHD,High,3,Shoulder Pain; Eye Strain,2,$80K-100K
-2025-06-01,40,Female,Europe,Education,Data Analyst,Onsite,63,ADHD,Medium,1,Shoulder Pain; Eye Strain,2,$60K-80K
-2025-06-01,30,Male,South America,Manufacturing,DevOps Engineer,Hybrid,65,None,Medium,5,None,4,$60K-80K
-2025-06-01,52,Male,Oceania,Customer Service,Business Analyst,Onsite,61,Burnout,Medium,4,Back Pain; Shoulder Pain,3,$60K-80K
-2025-06-01,50,Female,Asia,Manufacturing,IT Support,Onsite,62,None,Medium,4,Back Pain; Shoulder Pain; Wrist Pain,2,$80K-100K
-2025-06-01,63,Non-binary,Europe,Professional Services,Technical Writer,Onsite,55,Anxiety,High,3,None,2,$100K-120K
-2025-06-01,30,Female,South America,Technology,Software Engineer,Remote,47,Anxiety,Medium,2,Neck Pain,4,$60K-80K
-2025-06-01,37,Female,Asia,Finance,HR Manager,Onsite,55,Burnout,Medium,5,Back Pain,1,$60K-80K
-2025-06-01,42,Female,Asia,Professional Services,Project Manager,Onsite,38,None,High,3,Shoulder Pain,2,$100K-120K
-2025-06-01,64,Male,North America,Technology,Business Analyst,Remote,35,ADHD,Medium,3,Eye Strain; Wrist Pain,4,$40K-60K
-2025-06-01,25,Female,Oceania,Technology,Data Scientist,Hybrid,57,Burnout,High,2,Back Pain; Eye Strain,1,$80K-100K
-2025-06-01,37,Male,Europe,Finance,UX Designer,Remote,59,Anxiety,High,5,Back Pain; Shoulder Pain; Wrist Pain,5,$60K-80K
-2025-06-01,50,Male,Europe,Professional Services,Social Media Manager,Remote,64,Burnout,Medium,1,None,4,$60K-80K
-2025-06-01,42,Female,South America,Retail,Data Scientist,Onsite,54,Anxiety,High,5,Back Pain; Shoulder Pain; Eye Strain,2,$120K+
-2025-06-01,30,Male,Oceania,Professional Services,Data Analyst,Hybrid,36,Anxiety,High,3,Neck Pain,2,$60K-80K
-2025-06-01,36,Female,Africa,Customer Service,HR Manager,Onsite,63,None,Medium,3,Shoulder Pain,2,$60K-80K
-2025-06-01,50,Male,North America,Education,Digital Marketing Specialist,Onsite,51,Stress Disorder,Low,4,Back Pain; Shoulder Pain,5,$100K-120K
+
+
 
 
 
